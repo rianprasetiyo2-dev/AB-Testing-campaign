@@ -1,3 +1,5 @@
+![A/B Testing Result](images/ab_testing.png)
+
 # A/B Testing & Experimentation
 
 ## Latar Belakang
